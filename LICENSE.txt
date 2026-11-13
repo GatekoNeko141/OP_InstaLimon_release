@@ -1,0 +1,22 @@
+ACUERDO DE LICENCIA DE USUARIO FINAL (FREEWARE)
+Software: Insta Limón
+Autor: GatekoNeko / Otún Pro
+Copyright (c) 2026 Otún Pro. Todos los derechos reservados.
+
+1. CONCESIÓN DE LICENCIA GRATUITA
+Se concede al usuario una licencia gratuita, no exclusiva e intransferible para descargar, instalar y utilizar el software "Insta Limón" en computadoras con sistema operativo Windows, tanto para fines personales como comerciales.
+
+2. PROPIEDAD INTELECTUAL Y CÓDIGO FUENTE
+"Insta Limón" es software propietario de código cerrado. Todos los derechos de autor, diseño, interfaz y código fuente pertenecen exclusivamente a GatekoNeko / Otún Pro. Esta licencia no otorga ningún derecho sobre el código fuente del programa.
+
+3. RESTRICCIONES
+Queda estrictamente prohibido:
+- Descompilar, desensamblar, aplicar ingeniería inversa o intentar extraer el código fuente de la aplicación.
+- Modificar, adaptar o crear obras derivadas basadas en este software.
+- Vender, alquilar, sublicenciar o cobrar por la distribución de este programa sin autorización expresa y por escrito del autor.
+
+4. COMPONENTES DE TERCEROS (FFmpeg)
+Este paquete incluye binarios sin modificar de FFmpeg (ffmpeg.exe), los cuales se distribuyen bajo los términos de la Licencia Pública General de GNU versión 3 (GPL v3). Puede consultar los términos completos y la información sobre cómo obtener el código fuente de FFmpeg en el archivo "LICENSE-FFMPEG.txt" incluido en esta misma carpeta.
+
+5. EXENCIÓN DE GARANTÍAS
+Este software se proporciona "tal cual" ("AS IS"), sin garantías de ningún tipo, ya sean expresas o implícitas. El autor no se hace responsable por daños directos, indirectos o pérdida de información derivados del uso o la imposibilidad de uso de la aplicación.
